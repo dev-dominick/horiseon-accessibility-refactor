@@ -3,10 +3,10 @@
 ## Description
 
 I was tasked with refactoring existing code for Horiseon Social Solution Services, Inc.
-New software has mad the internet more accessible to all users by using braille keyboards, screen readers, etc.  I have made changes to the code to make it semantic so it will be compatible with these softwares.  
+New software has made the internet more accessible to all users by using braille keyboards, screen readers, etc.  I have made changes to the code to make the web application more compatible with these softwares. I did this by changing the formatting of the HTML to follow a semantic structure and adding alt image tags to provide a description of the images that are displayed. 
 
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
